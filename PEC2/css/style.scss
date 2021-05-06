@@ -679,42 +679,42 @@ Vinculación de la animación del keyframe a las clases
 Se utilizan clases en lugar de id ya que imagemin elimina los id del svg al optimizarlo
 */
 
-.mallorca-svg {
+#mallorca-svg {
   animation: var(--animation-time) infinite backwards mallorca;
 }
 
-.svg-mallorca-txt {
+#svg-mallorca-txt {
   animation: var(--animation-time) infinite backwards mallorca-txt;
 }
 
-.menorca-svg {
+#menorca-svg {
   animation: var(--animation-time) infinite backwards menorca;
 }
 
-.svg-menorca-txt {
+#svg-menorca-txt {
   animation: var(--animation-time) infinite backwards menorca-txt;
 }
 
-.ibiza-svg {
+#ibiza-svg {
   animation: var(--animation-time) infinite backwards ibiza;
 }
 
-.svg-ibiza-txt {
+#svg-ibiza-txt {
   animation: var(--animation-time) infinite backwards ibiza-txt;
 }
 
-.formentera-svg {
+#formentera-svg {
   animation: var(--animation-time) infinite backwards formentera;
 }
 
-.svg-formentera-txt {
+#svg-formentera-txt {
   animation: var(--animation-time) infinite backwards formentera-txt;
 }
 
-.cabrera-svg {
+#cabrera-svg {
   animation: var(--animation-time) infinite backwards cabrera;
 }
 
-.svg-cabrera-txt {
+#svg-cabrera-txt {
   animation: var(--animation-time) infinite backwards cabrera-txt;
 }
