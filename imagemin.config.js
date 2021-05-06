@@ -4,9 +4,9 @@ module.exports = {
   "pngquant": { "quality": [0.25, 0.5] },
   "svgo": {
     "plugins": [
-      { "removeViewBox": false },
-      { "cleanUpIDs": false },
-    ]
+     { "removeViewBox": false },      
+     { "cleanupIDs": false },
+   ]
   },
   "webp": { "quality": 90 }
 }
